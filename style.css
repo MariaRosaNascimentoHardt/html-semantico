@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Hand+Pre:wght@400..700&family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Savate", sans-serif;
+}
+
+h1{
+    background:#1b23f7;
+    padding: 10px;
+    text-align: center;
+    color:aliceblue
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+    font-size: 35px;
+    font-weight: bolder;
+}
